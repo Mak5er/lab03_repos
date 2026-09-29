@@ -1,0 +1,15 @@
+# Build output & binaries
+Lab_03_1
+Lab_03_2
+Lab_03_3
+Lab_03_4
+*.dSYM/
+.DS_Store
+*.o
+*.obj
+
+# Diagrams
+*.dot
+*.puml
+*.svg
+*.png
